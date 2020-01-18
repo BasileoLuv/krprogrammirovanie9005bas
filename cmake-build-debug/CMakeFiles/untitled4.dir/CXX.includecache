@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/basileo/CLionProjects/krprogrammirovanie9005bas/main.cpp
+iostream
+-
+stdonly.cpp
+/home/basileo/CLionProjects/krprogrammirovanie9005bas/stdonly.cpp
+
+/home/basileo/CLionProjects/krprogrammirovanie9005bas/stdonly.cpp
+iostream
+-
+
