@@ -1,7 +1,17 @@
 #include <iostream>
-#include "stdonly.cpp"
+#include "iostreamonly.cpp"
+#include "stdioOnly.cpp"
 
 int main() {
-    stdwork();
+
+    cout << "введите номер работы: ";
+    double num;
+    cin >> num;
+    if (num == 1)
+    {
+        iostreamwork();
+    }
+    else
+    stdiowork();
     return 0;
 }

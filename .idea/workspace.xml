@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="krprogrammirovanie9005bas" targetName="krprogrammirovanie9005bas" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,7 +11,24 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72c79d61-2d69-4406-9c49-ec617cae7f0e" name="Default Changelist" comment="" />
+    <list default="true" id="72c79d61-2d69-4406-9c49-ec617cae7f0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/iostreamonly.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stdioOnly.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled4.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/krprogrammirovanie9005bas.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/krprogrammirovanie9005bas.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stdonly.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/stdonly.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +37,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -41,7 +61,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
   </component>
   <component name="RunManager">
-    <configuration name="untitled4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="krprogrammirovanie9005bas" TARGET_NAME="untitled4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="krprogrammirovanie9005bas" RUN_TARGET_NAME="untitled4">
+    <configuration name="krprogrammirovanie9005bas" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="krprogrammirovanie9005bas" TARGET_NAME="krprogrammirovanie9005bas" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="krprogrammirovanie9005bas" RUN_TARGET_NAME="krprogrammirovanie9005bas">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -70,7 +90,9 @@
       <option name="presentableId" value="Default" />
       <updated>1579338386590</updated>
       <workItem from="1579338387833" duration="1637000" />
-      <workItem from="1579340039359" duration="148000" />
+      <workItem from="1579340039359" duration="1394000" />
+      <workItem from="1579341451842" duration="1714000" />
+      <workItem from="1579551359613" duration="1950000" />
     </task>
     <servers />
   </component>
@@ -82,25 +104,33 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579340238711" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1579340258703">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1579567846962">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579340258703" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1579340258701">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579567846962" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1579567846961">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579340258701" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1579340258699">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579567846961" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1579567846961">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579340258699" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1579340258702">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579567846961" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1579567846961">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579340258702" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579567846961" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579551363377">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579551363377" />
     <state x="640" y="149" width="707" height="807" key="find.popup" timestamp="1579338643973">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="640" y="149" width="707" height="807" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579338643973" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1579341117699">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1579341117699" />
   </component>
 </project>
