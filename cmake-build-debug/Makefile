@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named untitled4
+# Target rules for targets named krprogrammirovanie9005bas
 
 # Build rule for target.
-untitled4: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 untitled4
-.PHONY : untitled4
+krprogrammirovanie9005bas: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 krprogrammirovanie9005bas
+.PHONY : krprogrammirovanie9005bas
 
 # fast build rule for target.
-untitled4/fast:
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/build
-.PHONY : untitled4/fast
+krprogrammirovanie9005bas/fast:
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/build
+.PHONY : krprogrammirovanie9005bas/fast
 
 main.o: main.cpp.o
 
@@ -129,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -157,7 +157,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... untitled4"
+	@echo "... krprogrammirovanie9005bas"
 	@echo "... edit_cache"
 	@echo "... main.o"
 	@echo "... main.i"

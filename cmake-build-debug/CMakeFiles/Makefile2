@@ -53,12 +53,12 @@ CMAKE_BINARY_DIR = /home/basileo/CLionProjects/krprogrammirovanie9005bas/cmake-b
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/untitled4.dir/all
+all: CMakeFiles/krprogrammirovanie9005bas.dir/all
 
 .PHONY : all
 
 # The main recursive "clean" target.
-clean: CMakeFiles/untitled4.dir/clean
+clean: CMakeFiles/krprogrammirovanie9005bas.dir/clean
 
 .PHONY : clean
 
@@ -68,31 +68,31 @@ preinstall:
 .PHONY : preinstall
 
 #=============================================================================
-# Target rules for target CMakeFiles/untitled4.dir
+# Target rules for target CMakeFiles/krprogrammirovanie9005bas.dir
 
 # All Build rule for target.
-CMakeFiles/untitled4.dir/all:
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/depend
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/basileo/CLionProjects/krprogrammirovanie9005bas/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target untitled4"
-.PHONY : CMakeFiles/untitled4.dir/all
+CMakeFiles/krprogrammirovanie9005bas.dir/all:
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/depend
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/basileo/CLionProjects/krprogrammirovanie9005bas/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target krprogrammirovanie9005bas"
+.PHONY : CMakeFiles/krprogrammirovanie9005bas.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/untitled4.dir/rule: cmake_check_build_system
+CMakeFiles/krprogrammirovanie9005bas.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/basileo/CLionProjects/krprogrammirovanie9005bas/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/untitled4.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/krprogrammirovanie9005bas.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/basileo/CLionProjects/krprogrammirovanie9005bas/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/untitled4.dir/rule
+.PHONY : CMakeFiles/krprogrammirovanie9005bas.dir/rule
 
 # Convenience name for target.
-untitled4: CMakeFiles/untitled4.dir/rule
+krprogrammirovanie9005bas: CMakeFiles/krprogrammirovanie9005bas.dir/rule
 
-.PHONY : untitled4
+.PHONY : krprogrammirovanie9005bas
 
 # clean rule for target.
-CMakeFiles/untitled4.dir/clean:
-	$(MAKE) -f CMakeFiles/untitled4.dir/build.make CMakeFiles/untitled4.dir/clean
-.PHONY : CMakeFiles/untitled4.dir/clean
+CMakeFiles/krprogrammirovanie9005bas.dir/clean:
+	$(MAKE) -f CMakeFiles/krprogrammirovanie9005bas.dir/build.make CMakeFiles/krprogrammirovanie9005bas.dir/clean
+.PHONY : CMakeFiles/krprogrammirovanie9005bas.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

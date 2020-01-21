@@ -15,10 +15,12 @@ iostream
 -
 iostreamonly.cpp
 /home/basileo/CLionProjects/krprogrammirovanie9005bas/iostreamonly.cpp
-stdonly.cpp
-/home/basileo/CLionProjects/krprogrammirovanie9005bas/stdonly.cpp
+stdioOnly.cpp
+/home/basileo/CLionProjects/krprogrammirovanie9005bas/stdioOnly.cpp
 
-/home/basileo/CLionProjects/krprogrammirovanie9005bas/stdonly.cpp
-iostream
+/home/basileo/CLionProjects/krprogrammirovanie9005bas/stdioOnly.cpp
+stdio.h
+-
+math.h
 -
 
