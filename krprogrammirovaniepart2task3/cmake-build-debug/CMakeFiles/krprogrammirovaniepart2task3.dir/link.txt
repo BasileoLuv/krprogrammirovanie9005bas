@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/krprogrammirovaniepart2task3.dir/main.cpp.o  -o krprogrammirovaniepart2task3 

@@ -1,0 +1,3 @@
+/home/basileo/CLionProjects/krprogrammirovaniepart2task3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/basileo/CLionProjects/krprogrammirovaniepart2task3/cmake-build-debug/CMakeFiles/krprogrammirovaniepart2task3.dir
+/home/basileo/CLionProjects/krprogrammirovaniepart2task3/cmake-build-debug/CMakeFiles/edit_cache.dir
